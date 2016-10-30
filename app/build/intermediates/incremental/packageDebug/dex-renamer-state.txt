@@ -1,0 +1,7 @@
+#Thu Oct 27 21:27:42 PDT 2016
+base.0=C\:\\Users\\gmaxson\\Dropbox\\Other\\AndroidStudio\\EasyCal\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3681e55e5247ef367555226cb976534f97f4ec87
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\gmaxson\\Dropbox\\Other\\AndroidStudio\\EasyCal\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d5e4a0faf05f9ad62d2764ca7b5343a39f281270\\classes.dex
+base.1=C\:\\Users\\gmaxson\\Dropbox\\Other\\AndroidStudio\\EasyCal\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d5e4a0faf05f9ad62d2764ca7b5343a39f281270
+file.0=C\:\\Users\\gmaxson\\Dropbox\\Other\\AndroidStudio\\EasyCal\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3681e55e5247ef367555226cb976534f97f4ec87\\classes.dex

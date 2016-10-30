@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="app_name">EasyCal</string>
+    <string name="date_placeholder">Medium Text</string>
+    <string name="fri_btn">+2</string>
+    <string name="fri_lbl">Fri</string>
+    <string name="left_btn">&lt;&lt;</string>
+    <string name="mon_btn">-2</string>
+    <string name="mon_lbl">Mon</string>
+    <string name="notes_placeholder">Add notes here</string>
+    <string name="right_btn">>></string>
+    <string name="sat_btn">+3</string>
+    <string name="sat_lbl">Sat</string>
+    <string name="save_btn">Save</string>
+    <string name="sun_btn">-3</string>
+    <string name="sun_lbl">Sun</string>
+    <string name="thu_btn">+1</string>
+    <string name="thu_lbl">Thu</string>
+    <string name="today_btn">Today</string>
+    <string name="tue_btn">-1</string>
+    <string name="tue_lbl">Tue</string>
+    <string name="wed_btn">0</string>
+    <string name="wed_lbl">Wed</string>
+    <style name="AppBaseTheme" parent="android:Theme.Holo">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

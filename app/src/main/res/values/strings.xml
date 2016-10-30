@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EasyCal</string>
+    <string name="notes_placeholder">Add notes here</string>
+    <string name="date_placeholder">Medium Text</string>
+    <string name="sun_lbl">Sun</string>
+    <string name="sun_btn">-3</string>
+    <string name="mon_lbl">Mon</string>
+    <string name="mon_btn">-2</string>
+    <string name="tue_lbl">Tue</string>
+    <string name="tue_btn">-1</string>
+    <string name="wed_lbl" >Wed</string>
+    <string name="wed_btn">0</string>
+    <string name="thu_lbl">Thu</string>
+    <string name="thu_btn">+1</string>
+    <string name="fri_lbl">Fri</string>
+    <string name="fri_btn">+2</string>
+    <string name="sat_lbl">Sat</string>
+    <string name="sat_btn">+3</string>
+    <string name="left_btn">&lt;&lt;</string>
+    <string name="right_btn">&gt;&gt;</string>
+    <string name="today_btn">Today</string>
+    <string name="save_btn">Save</string>
+
+</resources>
