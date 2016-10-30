@@ -9,3 +9,4 @@ gradlew.bat
 import-summary.txt
 settings.gradle
 gradle
+app/lint.xml
